@@ -204,9 +204,6 @@
     }
   });
 
-
-
-
   // Init AOS
   function aos_init() {
     AOS.init({
